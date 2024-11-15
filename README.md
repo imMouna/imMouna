@@ -4,7 +4,7 @@
 <h3 align="center"> Data enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Working on data analysis modules like Numpy and Pandas in Python**
+- 🌱 I’m currently learning **Data analysis modules like Numpy and Pandas in Python**
 
 - 💬 Ask me about **Django, Python, JavaScript, DSA and more...**
 
